@@ -1,0 +1,6 @@
+; count, type: value [instances...]
+; ---------------------------------
+1,	D09S13A6GV00LF:		[c1]
+1,	D15S13A6GV00LF:		[c2]
+1,	D25S13A6GV00LF:		[c3]
+1,	Dsub_9_Vertical:		[c4]

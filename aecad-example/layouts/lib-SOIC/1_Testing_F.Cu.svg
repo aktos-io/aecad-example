@@ -1,0 +1,110 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='57.1024' height='37.51731' viewBox='-30.83468,-1.64959,57.1024,37.51731' data='{&quot;name&quot;:&quot;aeCAD by Aktos Electronics&quot;,&quot;website&quot;:&quot;https://aktos.io/aecad&quot;,&quot;dependencies&quot;:{&quot;aecad&quot;:&quot;8948754&quot;}}'>
+  <g id='gui' fill='#000000' fill-rule='nonzero' stroke='none' stroke-width='0' stroke-linecap='butt' stroke-linejoin='miter' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='none' font-weight='none' font-size='none' text-anchor='none' style='mix-blend-mode: normal'>
+    <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;SOIC16&quot;,&quot;rev&quot;:2,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7,&quot;8&quot;:8,&quot;9&quot;:9,&quot;10&quot;:10,&quot;11&quot;:11,&quot;12&quot;:12,&quot;13&quot;:13,&quot;14&quot;:14,&quot;15&quot;:15,&quot;16&quot;:16},&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;2&quot;,&quot;3&quot;:&quot;3&quot;,&quot;4&quot;:&quot;4&quot;,&quot;5&quot;:&quot;5&quot;,&quot;6&quot;:&quot;6&quot;,&quot;7&quot;:&quot;7&quot;,&quot;8&quot;:&quot;8&quot;,&quot;9&quot;:&quot;9&quot;,&quot;10&quot;:&quot;10&quot;,&quot;11&quot;:&quot;11&quot;,&quot;12&quot;:&quot;12&quot;,&quot;13&quot;:&quot;13&quot;,&quot;14&quot;:&quot;14&quot;,&quot;15&quot;:&quot;15&quot;,&quot;16&quot;:&quot;16&quot;},&quot;side&quot;:&quot;F.Cu&quot;}}'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;DoublePinArray&quot;,&quot;distance&quot;:5.4,&quot;left&quot;:{&quot;dir&quot;:&quot;-x&quot;,&quot;pad&quot;:{&quot;height&quot;:0.6,&quot;width&quot;:1.55},&quot;rows&quot;:{&quot;count&quot;:8,&quot;interval&quot;:1.27}},&quot;right&quot;:{&quot;start&quot;:9,&quot;pad&quot;:{&quot;height&quot;:0.6,&quot;width&quot;:1.55},&quot;dir&quot;:&quot;-y&quot;,&quot;rows&quot;:{&quot;count&quot;:8,&quot;interval&quot;:1.27}},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7,&quot;8&quot;:8,&quot;9&quot;:9,&quot;10&quot;:10,&quot;11&quot;:11,&quot;12&quot;:12,&quot;13&quot;:13,&quot;14&quot;:14,&quot;15&quot;:15,&quot;16&quot;:16}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;dir&quot;:&quot;-x&quot;,&quot;pad&quot;:{&quot;height&quot;:0.6,&quot;width&quot;:1.55},&quot;rows&quot;:{&quot;count&quot;:8,&quot;interval&quot;:1.27},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7,&quot;8&quot;:8}}}'>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:1,&quot;label&quot;:1,&quot;userDefined&quot;:&quot;&quot;,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='0' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:2,&quot;label&quot;:2,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='4.8' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:3,&quot;label&quot;:3,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='9.6' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:4,&quot;label&quot;:4,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='14.4' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:5,&quot;label&quot;:5,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='19.2' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:6,&quot;label&quot;:6,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='24' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:7,&quot;label&quot;:7,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='28.8' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:8,&quot;label&quot;:8,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='33.6' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+        </g>
+        <g transform='translate(20.40945,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;start&quot;:9,&quot;pad&quot;:{&quot;height&quot;:0.6,&quot;width&quot;:1.55},&quot;dir&quot;:&quot;-y&quot;,&quot;rows&quot;:{&quot;count&quot;:8,&quot;interval&quot;:1.27},&quot;_iface&quot;:{&quot;9&quot;:9,&quot;10&quot;:10,&quot;11&quot;:11,&quot;12&quot;:12,&quot;13&quot;:13,&quot;14&quot;:14,&quot;15&quot;:15,&quot;16&quot;:16}}}'>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:16,&quot;label&quot;:16,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='0' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:15,&quot;label&quot;:15,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='4.8' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:14,&quot;label&quot;:14,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='9.6' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:13,&quot;label&quot;:13,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='14.4' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:12,&quot;label&quot;:12,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='19.2' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:11,&quot;label&quot;:11,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='24' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:10,&quot;label&quot;:10,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='28.8' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:9,&quot;label&quot;:9,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='33.6' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform='translate(-30.83468,-1.64959)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;SOIC14&quot;,&quot;rev&quot;:2,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7,&quot;8&quot;:8,&quot;9&quot;:9,&quot;10&quot;:10,&quot;11&quot;:11,&quot;12&quot;:12,&quot;13&quot;:13,&quot;14&quot;:14},&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;2&quot;,&quot;3&quot;:&quot;3&quot;,&quot;4&quot;:&quot;4&quot;,&quot;5&quot;:&quot;5&quot;,&quot;6&quot;:&quot;6&quot;,&quot;7&quot;:&quot;7&quot;,&quot;8&quot;:&quot;8&quot;,&quot;9&quot;:&quot;9&quot;,&quot;10&quot;:&quot;10&quot;,&quot;11&quot;:&quot;11&quot;,&quot;12&quot;:&quot;12&quot;,&quot;13&quot;:&quot;13&quot;,&quot;14&quot;:&quot;14&quot;},&quot;userDefined&quot;:&quot;&quot;,&quot;side&quot;:&quot;F.Cu&quot;}}'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;DoublePinArray&quot;,&quot;distance&quot;:5.4,&quot;left&quot;:{&quot;dir&quot;:&quot;-x&quot;,&quot;pad&quot;:{&quot;height&quot;:0.6,&quot;width&quot;:1.55},&quot;rows&quot;:{&quot;count&quot;:7,&quot;interval&quot;:1.27}},&quot;right&quot;:{&quot;start&quot;:8,&quot;pad&quot;:{&quot;height&quot;:0.6,&quot;width&quot;:1.55},&quot;dir&quot;:&quot;-y&quot;,&quot;rows&quot;:{&quot;count&quot;:7,&quot;interval&quot;:1.27}},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7,&quot;8&quot;:8,&quot;9&quot;:9,&quot;10&quot;:10,&quot;11&quot;:11,&quot;12&quot;:12,&quot;13&quot;:13,&quot;14&quot;:14}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;dir&quot;:&quot;-x&quot;,&quot;pad&quot;:{&quot;height&quot;:0.6,&quot;width&quot;:1.55},&quot;rows&quot;:{&quot;count&quot;:7,&quot;interval&quot;:1.27},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7}}}'>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:1,&quot;label&quot;:1,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='0' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:2,&quot;label&quot;:2,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='4.8' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:3,&quot;label&quot;:3,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='9.6' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:4,&quot;label&quot;:4,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='14.4' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:5,&quot;label&quot;:5,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='19.2' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:6,&quot;label&quot;:6,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='24' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:7,&quot;label&quot;:7,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='28.8' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+        </g>
+        <g transform='translate(20.40945,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;start&quot;:8,&quot;pad&quot;:{&quot;height&quot;:0.6,&quot;width&quot;:1.55},&quot;dir&quot;:&quot;-y&quot;,&quot;rows&quot;:{&quot;count&quot;:7,&quot;interval&quot;:1.27},&quot;_iface&quot;:{&quot;8&quot;:8,&quot;9&quot;:9,&quot;10&quot;:10,&quot;11&quot;:11,&quot;12&quot;:12,&quot;13&quot;:13,&quot;14&quot;:14}}}'>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:14,&quot;label&quot;:14,&quot;userDefined&quot;:&quot;&quot;,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='0' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:13,&quot;label&quot;:13,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='4.8' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:12,&quot;label&quot;:12,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='9.6' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:11,&quot;label&quot;:11,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='14.4' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:10,&quot;label&quot;:10,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='19.2' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:9,&quot;label&quot;:9,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='24' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:0.6,&quot;width&quot;:1.55,&quot;pin&quot;:8,&quot;label&quot;:8,&quot;mirrored&quot;:false}}'>
+            <rect x='-0.00001' y='28.8' width='5.85827' height='2.26772' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

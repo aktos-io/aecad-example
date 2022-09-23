@@ -1,0 +1,128 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='167.27181' height='109.87779' viewBox='-220.84347,-4.91339,167.27181,109.87779' data='{&quot;name&quot;:&quot;aeCAD by Aktos Electronics&quot;,&quot;website&quot;:&quot;https://aktos.io/aecad&quot;,&quot;dependencies&quot;:{&quot;aecad&quot;:&quot;8948754&quot;}}'>
+  <g id='scripting' fill='none' fill-rule='nonzero' stroke='none' stroke-width='none' stroke-linecap='butt' stroke-linejoin='miter' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='none' font-weight='none' font-size='none' text-anchor='none' style='mix-blend-mode: normal'>
+    <g transform='translate(-215.93008,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;DG142V_5_08_XXP&quot;,&quot;name&quot;:&quot;c5&quot;,&quot;value&quot;:&quot;6 terminals&quot;,&quot;labels&quot;:{&quot;1&quot;:&quot;a&quot;,&quot;2&quot;:&quot;b&quot;,&quot;3&quot;:&quot;c&quot;,&quot;4&quot;:&quot;d&quot;,&quot;5&quot;:&quot;e&quot;,&quot;6&quot;:&quot;f&quot;},&quot;_labels&quot;:{&quot;1&quot;:&quot;a&quot;,&quot;2&quot;:&quot;a&quot;,&quot;3&quot;:&quot;b&quot;,&quot;4&quot;:&quot;b&quot;,&quot;5&quot;:&quot;c&quot;,&quot;6&quot;:&quot;c&quot;,&quot;7&quot;:&quot;d&quot;,&quot;8&quot;:&quot;d&quot;,&quot;9&quot;:&quot;e&quot;,&quot;10&quot;:&quot;e&quot;,&quot;11&quot;:&quot;f&quot;,&quot;12&quot;:&quot;f&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;a&quot;,&quot;2&quot;:&quot;a&quot;,&quot;3&quot;:&quot;b&quot;,&quot;4&quot;:&quot;b&quot;,&quot;5&quot;:&quot;c&quot;,&quot;6&quot;:&quot;c&quot;,&quot;7&quot;:&quot;d&quot;,&quot;8&quot;:&quot;d&quot;,&quot;9&quot;:&quot;e&quot;,&quot;10&quot;:&quot;e&quot;,&quot;11&quot;:&quot;f&quot;,&quot;12&quot;:&quot;f&quot;}}}' stroke-width='0'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;drill&quot;:1.3,&quot;dia&quot;:2.6},&quot;cols&quot;:{&quot;count&quot;:2,&quot;interval&quot;:7.62},&quot;rows&quot;:{&quot;count&quot;:&quot;6&quot;,&quot;interval&quot;:5.08},&quot;dir&quot;:&quot;x&quot;,&quot;labels&quot;:{&quot;1&quot;:&quot;a&quot;,&quot;2&quot;:&quot;a&quot;,&quot;3&quot;:&quot;b&quot;,&quot;4&quot;:&quot;b&quot;,&quot;5&quot;:&quot;c&quot;,&quot;6&quot;:&quot;c&quot;,&quot;7&quot;:&quot;d&quot;,&quot;8&quot;:&quot;d&quot;,&quot;9&quot;:&quot;e&quot;,&quot;10&quot;:&quot;e&quot;,&quot;11&quot;:&quot;f&quot;,&quot;12&quot;:&quot;f&quot;,&quot;13&quot;:7,&quot;14&quot;:7},&quot;allowDuplicateLabels&quot;:true,&quot;_iface&quot;:{&quot;1&quot;:&quot;a&quot;,&quot;2&quot;:&quot;a&quot;,&quot;3&quot;:&quot;b&quot;,&quot;4&quot;:&quot;b&quot;,&quot;5&quot;:&quot;c&quot;,&quot;6&quot;:&quot;c&quot;,&quot;7&quot;:&quot;d&quot;,&quot;8&quot;:&quot;d&quot;,&quot;9&quot;:&quot;e&quot;,&quot;10&quot;:&quot;e&quot;,&quot;11&quot;:&quot;f&quot;,&quot;12&quot;:&quot;f&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:1,&quot;label&quot;:&quot;a&quot;}}'>
+          <circle cx='0' cy='0' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,0c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:3,&quot;label&quot;:&quot;b&quot;}}'>
+          <circle cx='0' cy='19.2' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,19.2c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:5,&quot;label&quot;:&quot;c&quot;}}'>
+          <circle cx='0' cy='38.4' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,38.4c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:7,&quot;label&quot;:&quot;d&quot;}}'>
+          <circle cx='0' cy='57.6' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,57.6c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:9,&quot;label&quot;:&quot;e&quot;}}'>
+          <circle cx='0' cy='76.8' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,76.8c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:11,&quot;label&quot;:&quot;f&quot;}}'>
+          <circle cx='0' cy='96' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,96c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:2,&quot;label&quot;:&quot;a&quot;}}'>
+          <circle cx='28.8' cy='0' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M27.85512,0c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:4,&quot;label&quot;:&quot;b&quot;}}'>
+          <circle cx='28.8' cy='19.2' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M27.85512,19.2c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:6,&quot;label&quot;:&quot;c&quot;}}'>
+          <circle cx='28.8' cy='38.4' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M27.85512,38.4c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:8,&quot;label&quot;:&quot;d&quot;}}'>
+          <circle cx='28.8' cy='57.6' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M27.85512,57.6c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:10,&quot;label&quot;:&quot;e&quot;}}'>
+          <circle cx='28.8' cy='76.8' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M27.85512,76.8c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.3,&quot;dia&quot;:2.6,&quot;pin&quot;:12,&quot;label&quot;:&quot;f&quot;}}'>
+          <circle cx='28.8' cy='96' r='4.91339' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M27.85512,96c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+      </g>
+    </g>
+    <g transform='translate(-127.30331,85.8022)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Phoenix_MC&quot;,&quot;name&quot;:&quot;c4&quot;,&quot;value&quot;:&quot;MC-1.5_2-G-3.81&quot;,&quot;labels&quot;:null,&quot;rev&quot;:1,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;2&quot;},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2}}}' stroke-width='0'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;drill&quot;:1.2,&quot;dia&quot;:2.52},&quot;cols&quot;:{&quot;count&quot;:1,&quot;interval&quot;:3.81},&quot;rows&quot;:{&quot;count&quot;:2,&quot;interval&quot;:3.81},&quot;dir&quot;:&quot;x&quot;,&quot;labels&quot;:null,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.2,&quot;dia&quot;:2.52,&quot;pin&quot;:1,&quot;label&quot;:1}}'>
+          <circle cx='0' cy='0' r='4.7622' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,0c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52185,0 0.94488,0.42304 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52185,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:1.2,&quot;dia&quot;:2.52,&quot;pin&quot;:2,&quot;label&quot;:2}}'>
+          <circle cx='0' cy='14.4' r='4.7622' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,14.4c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52185,0 0.94488,0.42304 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52185,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+      </g>
+    </g>
+    <g transform='translate(-127.30331,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Conn&quot;,&quot;name&quot;:&quot;c3&quot;,&quot;value&quot;:&quot;1x8 2.54mm smd&quot;,&quot;labels&quot;:null,&quot;rev&quot;:1,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;2&quot;,&quot;3&quot;:&quot;3&quot;,&quot;4&quot;:&quot;4&quot;,&quot;5&quot;:&quot;5&quot;,&quot;6&quot;:&quot;6&quot;,&quot;7&quot;:&quot;7&quot;,&quot;8&quot;:&quot;8&quot;},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7,&quot;8&quot;:8}}}' fill='none' stroke-width='1' font-family='sans-serif' font-weight='normal' font-size='12' text-anchor='start'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;width&quot;:2.794,&quot;height&quot;:1.016},&quot;cols&quot;:{&quot;count&quot;:1,&quot;interval&quot;:2.54},&quot;rows&quot;:{&quot;count&quot;:8,&quot;interval&quot;:2.54},&quot;dir&quot;:&quot;x&quot;,&quot;labels&quot;:null,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7,&quot;8&quot;:8}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:2.794,&quot;height&quot;:1.016,&quot;pin&quot;:1,&quot;label&quot;:1}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:2.794,&quot;height&quot;:1.016,&quot;pin&quot;:2,&quot;label&quot;:2}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:2.794,&quot;height&quot;:1.016,&quot;pin&quot;:3,&quot;label&quot;:3}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:2.794,&quot;height&quot;:1.016,&quot;pin&quot;:4,&quot;label&quot;:4}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:2.794,&quot;height&quot;:1.016,&quot;pin&quot;:5,&quot;label&quot;:5}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:2.794,&quot;height&quot;:1.016,&quot;pin&quot;:6,&quot;label&quot;:6}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:2.794,&quot;height&quot;:1.016,&quot;pin&quot;:7,&quot;label&quot;:7}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:2.794,&quot;height&quot;:1.016,&quot;pin&quot;:8,&quot;label&quot;:8}}' />
+      </g>
+    </g>
+    <g transform='translate(-66.74331,26.74331)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Conn&quot;,&quot;name&quot;:&quot;c2&quot;,&quot;value&quot;:&quot;2x4 2.54mm&quot;,&quot;labels&quot;:null,&quot;rev&quot;:1,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;2&quot;,&quot;3&quot;:&quot;3&quot;,&quot;4&quot;:&quot;4&quot;,&quot;5&quot;:&quot;5&quot;,&quot;6&quot;:&quot;6&quot;,&quot;7&quot;:&quot;7&quot;,&quot;8&quot;:&quot;8&quot;},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7,&quot;8&quot;:8}}}' stroke-width='0'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;drill&quot;:0.9,&quot;dia&quot;:1.89},&quot;cols&quot;:{&quot;count&quot;:2,&quot;interval&quot;:2.54},&quot;rows&quot;:{&quot;count&quot;:4,&quot;interval&quot;:2.54},&quot;dir&quot;:&quot;x&quot;,&quot;labels&quot;:null,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6,&quot;7&quot;:7,&quot;8&quot;:8}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:1,&quot;label&quot;:1}}'>
+          <circle cx='0' cy='0' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,0c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:3,&quot;label&quot;:3}}'>
+          <circle cx='0' cy='9.6' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,9.6c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:5,&quot;label&quot;:5}}'>
+          <circle cx='0' cy='19.2' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,19.2c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:7,&quot;label&quot;:7}}'>
+          <circle cx='0' cy='28.8' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,28.8c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:2,&quot;label&quot;:2}}'>
+          <circle cx='9.6' cy='0' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M8.65512,0c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:4,&quot;label&quot;:4}}'>
+          <circle cx='9.6' cy='9.6' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M8.65512,9.6c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:6,&quot;label&quot;:6}}'>
+          <circle cx='9.6' cy='19.2' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M8.65512,19.2c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:8,&quot;label&quot;:8}}'>
+          <circle cx='9.6' cy='28.8' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M8.65512,28.8c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+      </g>
+    </g>
+    <g transform='translate(-66.74331,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Conn&quot;,&quot;name&quot;:&quot;c1&quot;,&quot;value&quot;:&quot;1x2 2.54mm&quot;,&quot;labels&quot;:null,&quot;rev&quot;:1,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;2&quot;},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2}}}' stroke-width='0'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;drill&quot;:0.9,&quot;dia&quot;:1.89},&quot;cols&quot;:{&quot;count&quot;:1,&quot;interval&quot;:2.54},&quot;rows&quot;:{&quot;count&quot;:2,&quot;interval&quot;:2.54},&quot;dir&quot;:&quot;x&quot;,&quot;labels&quot;:null,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:1,&quot;label&quot;:1}}'>
+          <circle cx='0' cy='0' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,0c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:2,&quot;label&quot;:2}}'>
+          <circle cx='0' cy='9.6' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,9.6c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

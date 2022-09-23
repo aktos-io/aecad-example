@@ -1,0 +1,5 @@
+; count, type: value [instances...]
+; ---------------------------------
+1,	LM324_SOIC:		[c1]
+1,	Trimpot_Bourns_3006P:		[r]
+1,	Conn:	1x4 2.54mm smd	[i1]

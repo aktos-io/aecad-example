@@ -1,0 +1,7 @@
+; count, type: value [instances...]
+; ---------------------------------
+1,	Conn:	1x2 2.54mm	[c1]
+1,	Conn:	2x4 2.54mm	[c2]
+1,	Conn:	1x8 2.54mm smd	[c3]
+1,	Phoenix_MC:	MC-1.5_2-G-3.81	[c4]
+1,	DG142V_5_08_XXP:	6 terminals	[c5]
