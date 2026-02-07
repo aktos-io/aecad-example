@@ -4,7 +4,7 @@
     {
       "name": "aeCAD by Aktos Electronics",
       "website": "https://aktos.io/aecad",
-      "dependencies": {"aecad": "8948754"}
+      "dependencies": {"aecad": "908f46a"}
     }
   ]
 ]

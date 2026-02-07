@@ -1,0 +1,252 @@
+[
+  [
+    "aeCAD",
+    {
+      "name": "aeCAD by Aktos Electronics",
+      "website": "https://aktos.io/aecad",
+      "dependencies": {"aecad": "908f46a"}
+    }
+  ],
+  [
+    "Layer",
+    {
+      "name": "scripting",
+      "applyMatrix": true,
+      "selected": true,
+      "children": [
+        [
+          "Group",
+          {
+            "applyMatrix": false,
+            "data": {
+              "aecad": {
+                "type": "Cap_Aluminum_SMD",
+                "value": "D",
+                "rev": 2,
+                "_labels": {"1": "a", "2": "c"},
+                "_iface": {"1": "a", "2": "c"}
+              }
+            },
+            "children": [
+              [
+                "Group",
+                {
+                  "applyMatrix": true,
+                  "data": {
+                    "aecad": {
+                      "type": "Pad",
+                      "width": 3.2,
+                      "height": 1.6,
+                      "pin": 1,
+                      "label": "a"
+                    }
+                  },
+                  "children": [
+                    [
+                      "Shape",
+                      {
+                        "applyMatrix": false,
+                        "matrix": [1, 0, 0, 1, 6.04724, 3.02362],
+                        "data": {"aecad": {"part": "cu"}},
+                        "type": "rectangle",
+                        "size": [12.09449, 6.04724],
+                        "radius": [0, 0],
+                        "fillColor": [0.78039, 0.08235, 0.52157],
+                        "strokeWidth": 0
+                      }
+                    ],
+                    [
+                      "PointText",
+                      {
+                        "applyMatrix": false,
+                        "matrix": [3.77953, 0, 0, 3.77953, 6.04724, 3.93071],
+                        "data": {"aecad": {"part": "ttip"}},
+                        "content": "a",
+                        "fillColor": [1, 1, 1],
+                        "fontSize": 0.8,
+                        "leading": 0.96,
+                        "justification": "center"
+                      }
+                    ]
+                  ]
+                }
+              ],
+              [
+                "Group",
+                {
+                  "applyMatrix": true,
+                  "data": {
+                    "aecad": {
+                      "type": "Pad",
+                      "width": 3.2,
+                      "height": 1.6,
+                      "pin": 2,
+                      "label": "c"
+                    }
+                  },
+                  "children": [
+                    [
+                      "Shape",
+                      {
+                        "applyMatrix": false,
+                        "matrix": [1, 0, 0, 1, 24.94488, 3.02362],
+                        "data": {"aecad": {"part": "cu"}},
+                        "type": "rectangle",
+                        "size": [12.09449, 6.04724],
+                        "radius": [0, 0],
+                        "fillColor": [0.78039, 0.08235, 0.52157],
+                        "strokeWidth": 0
+                      }
+                    ],
+                    [
+                      "PointText",
+                      {
+                        "applyMatrix": false,
+                        "matrix": [3.77953, 0, 0, 3.77953, 24.94488, 3.93071],
+                        "data": {"aecad": {"part": "ttip"}},
+                        "content": "c",
+                        "fillColor": [1, 1, 1],
+                        "fontSize": 0.8,
+                        "leading": 0.96,
+                        "justification": "center"
+                      }
+                    ]
+                  ]
+                }
+              ],
+              [
+                "Shape",
+                {
+                  "applyMatrix": false,
+                  "matrix": [1, 0, 0, 1, 15.49606, 3.02362],
+                  "data": {"aecad": {"part": "border1"}},
+                  "type": "rectangle",
+                  "size": [32.88189, 23.81102],
+                  "radius": [0.3, 0.3],
+                  "strokeColor": [1, 0.07843, 0.57647],
+                  "strokeWidth": 0.2
+                }
+              ]
+            ]
+          }
+        ],
+        [
+          "Group",
+          {
+            "applyMatrix": false,
+            "data": {
+              "aecad": {
+                "type": "Cap_Aluminum_SMD",
+                "value": "H, ",
+                "rev": 2,
+                "_labels": {"1": "a", "2": "c"},
+                "_iface": {"1": "a", "2": "c"}
+              }
+            },
+            "children": [
+              [
+                "Group",
+                {
+                  "applyMatrix": true,
+                  "data": {
+                    "aecad": {
+                      "type": "Pad",
+                      "width": 5.7,
+                      "height": 2,
+                      "pin": 1,
+                      "label": "a"
+                    }
+                  },
+                  "children": [
+                    [
+                      "Shape",
+                      {
+                        "applyMatrix": false,
+                        "matrix": [1, 0, 0, 1, 10.77165, 3.77953],
+                        "data": {"aecad": {"part": "cu"}},
+                        "type": "rectangle",
+                        "size": [21.54331, 7.55906],
+                        "radius": [0, 0],
+                        "fillColor": [0.78039, 0.08235, 0.52157],
+                        "strokeWidth": 0
+                      }
+                    ],
+                    [
+                      "PointText",
+                      {
+                        "applyMatrix": false,
+                        "matrix": [4.72441, 0, 0, 4.72441, 10.77165, 4.91339],
+                        "data": {"aecad": {"part": "ttip"}},
+                        "content": "a",
+                        "fillColor": [1, 1, 1],
+                        "fontSize": 0.8,
+                        "leading": 0.96,
+                        "justification": "center"
+                      }
+                    ]
+                  ]
+                }
+              ],
+              [
+                "Group",
+                {
+                  "applyMatrix": true,
+                  "data": {
+                    "aecad": {
+                      "type": "Pad",
+                      "width": 5.7,
+                      "height": 2,
+                      "pin": 2,
+                      "label": "c"
+                    }
+                  },
+                  "children": [
+                    [
+                      "Shape",
+                      {
+                        "applyMatrix": false,
+                        "matrix": [1, 0, 0, 1, 47.43307, 3.77953],
+                        "data": {"aecad": {"part": "cu"}},
+                        "type": "rectangle",
+                        "size": [21.54331, 7.55906],
+                        "radius": [0, 0],
+                        "fillColor": [0.78039, 0.08235, 0.52157],
+                        "strokeWidth": 0
+                      }
+                    ],
+                    [
+                      "PointText",
+                      {
+                        "applyMatrix": false,
+                        "matrix": [4.72441, 0, 0, 4.72441, 47.43307, 4.91339],
+                        "data": {"aecad": {"part": "ttip"}},
+                        "content": "c",
+                        "fillColor": [1, 1, 1],
+                        "fontSize": 0.8,
+                        "leading": 0.96,
+                        "justification": "center"
+                      }
+                    ]
+                  ]
+                }
+              ],
+              [
+                "Shape",
+                {
+                  "applyMatrix": false,
+                  "matrix": [1, 0, 0, 1, 29.10236, 3.77953],
+                  "data": {"aecad": {"part": "border1"}},
+                  "type": "rectangle",
+                  "size": [60.09449, 47.24409],
+                  "radius": [0.3, 0.3],
+                  "strokeColor": [1, 0.07843, 0.57647],
+                  "strokeWidth": 0.2
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+]

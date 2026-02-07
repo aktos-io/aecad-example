@@ -37,6 +37,10 @@ provides class TSSOP_20 extends DoublePinArray
                 width: 4.40mm - 0.3
                 height: (pin-count/2 * interval) + pad.height
 
+            dimple:
+                x: 2mm
+                y: 0.1mm
+
 provides class TSSOP_38 extends TSSOP_20
     (data, overrides) ->
         super data, overrides `based-on` do

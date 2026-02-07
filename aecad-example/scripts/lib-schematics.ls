@@ -19,9 +19,19 @@ power-parasitic = (value) ->
             "4.7uF": "C3"
 
 power = (args) ->
+    /* Documentation:
+
+    Arguments:
+        ric: Add extra, through hole (Redundant) (i)nput (c)apacitor
+
+    Namings:
+
+        * VFF: Field side input
+        * VFS: Field side input, safe side
+
+    */
+
     vin = args?.vin or '24V'
-    # ric (Redundant input capacitor):
-    # Add extra, through hole capacitor
     unless args?ric
         ric =
             bom: {}
@@ -45,9 +55,9 @@ power = (args) ->
                 "5V": 'C1'
             'LM1117':
                 "3.3V": 'C2'
-            TestBoundary1206: "R1, R2"
+            Jumper_1206: "R1, R2"
             'C1206':
-                "100uF,>#{math.evaluate "#{vin}*1.5"}": 'C13'
+                "100uF,>#{mathjs.evaluate "#{vin}*1.5"}": 'C13'
                 "10uF": "C11"
             "CAP_thd":
                 "1000uF,16V": "C10"
@@ -101,22 +111,136 @@ power = (args) ->
                     * "Stay safe for 1 minute"
                     * "No heat"
 
+
+power-input-protection = (config) ->
+    (value) ->
+        iface: "vff, vfs, gnd"
+        bom:
+            'DO214AC':
+                '1N5822': "in, rev"
+                "SMBJ26CA-TKS (Bidirectional)": "tvs"
+        netlist:
+            vff: 'in.a tvs.c'
+            vfs: 'in.c, rev.c'
+            gnd: "rev.a tvs.a"
+
+power-protection = power-input-protection
+
+lm2576-smps = (config) ->
+    /*
+    Namings:
+
+        * VFS: Input
+    */
+
+    vin = config?vin or '24V'
+    vout = config?vout or "5V"
+    inductor-type = config?inductor or 'smd'
+    current = config?current or "3A"
+
+    min-cap = (val) ->
+        # return minimum capacitor value
+        mathjs.evaluate "#{val} * 1.5"
+
+    (value) ->
+        # Power Layer
+        # Input: 9-30V, Output: 5V and 3.3V
+        iface: "vfs, vout, gnd"
+        bom: config?bom or do
+            'LM2576':
+                "#{vout}": 'C1'
+            Jumper_1206: "R1"
+            "CAP_thd_air":
+                "100uF, >#{min-cap vin}": 'Cin' # input cap
+                "1000uF, >#{min-cap vout}": "Cout"
+            "Inductor_#{inductor-type}":
+                "100..360uH, #{current}": 'L1'
+            'DO214AC':
+                '1N5822': "D15"
+            C1206:
+                "100nF": "cin_hf"
+            parasitic: "Cout2"
+
+        netlist:
+            # Trace_id: "list, of, connected, pads"
+            vfs: "C1.vin, Cin.a cin_hf.a"
+            gnd: """
+                Cin.c cin_hf.c C1.gnd C1.onoff
+                D15.a Cout.c
+                Cout2.c
+                """
+            2: 'C1.out, L1.1, D15.c'
+            vout: """
+                L1.2 C1.fb Cout.a
+                R1.1
+                Cout2.a
+                """
+
+        schemas: {parasitic}
+        notes:
+            'L1': """
+                This part is an EMC source, keep it
+                close to LM2576
+                """
+            'R1': """
+                These parts are used in testing step
+                """
+            'D15': "Should be VERY CLOSE to LM2576"
+            "C3": "Should be close to the output"
+
+        tests:
+            "full load":
+                do: "Connect a load that draws high current"
+                expect:
+                    * "No noise"
+                    * "No overheat"
+                    * "No high jitter"
+
+
+protected-lm2576-smps = (config) ->
+    (value) ->
+        iface: "vff, vfs, vout, gnd"
+        schemas:
+            smps: lm2576-smps(config)
+            protection: power-protection!
+        bom:
+            smps: "s"
+            protection: "p"
+        netlist:
+            vff: "p.vff"
+            gnd: "p.gnd s.gnd"
+            vfs: "s.vfs p.vfs"
+            vout: "s.vout"
+
+        tests:
+            "Reverse voltage":
+                do: "Apply reverse polarity"
+                expect:
+                    * "Stay safe for 1 minute"
+                    * "No heat"
 oc-output = (args) ->
-    r-value = args?R?value or "300ohm"
-    q-value = args?Q?value or "2N2222"
+    # NPN collector output
+    r-value = args?R or "300ohm"
+    q-value = args?Q or "2N2222"
     (value) ->
         # Open Collector Output
         iface: "out, in, gnd"
         netlist:
-            1: "Q1.b R1.1"
+            1: "Q1.b R1.1 R2.1"
             in: "R1.2"
-            gnd: "Q1.e"
+            gnd: "Q1.e R2.2"
             out: "Q1.c"
         bom:
-            NPN:
+            SOT23_NPN:
                 "#{q-value}": "Q1"
             SMD1206:
                 "#{r-value}": "R1"
+                "4.7K": "R2"
+        changelog: """
+            1. Added 4.7K from base to emitter in
+            order to prevent negative voltages generated
+            by parasitic signals"""
+
 
 
 signal-led = (args) ->
@@ -399,7 +523,7 @@ full-bridge = (args) ->
 parallel-r = (args) ->
     type = args?.type or \SMD1206
     (value) ->
-        r = math.evaluate "#{value} * 2"
+        r = mathjs.evaluate "#{value} * 2"
         schema =
             iface: "1 2"
             bom:
@@ -412,7 +536,7 @@ parallel-r = (args) ->
 parallel-sense = (args) ->
     type = args?.type or \Sense1206
     (value) ->
-        r = math.evaluate "#{value} * 2"
+        r = mathjs.evaluate "#{value} * 2"
         schema =
             iface: "1 2 sense1 sense2"
             bom:
@@ -522,3 +646,37 @@ p-contact = (args) ->
             1: "c1.b r2.1 r1.2"
             "v-": "c1.c"
             "in": "r2.2"
+
+if __main__
+    standard new Schema do
+        name: "test"
+        data:
+            schemas:
+                smps_5v: protected-lm2576-smps({
+                    bom:
+                        'LM2576':
+                            "5v": 'C1'
+                        Jumper_1206: "R1"
+                        "Cap_Aluminum_SMD":
+                            "D, 100uF, >35V": 'Cin' # input cap
+                            "H, 1000uF, >7.5V": "Cout"
+                        "Inductor_smd":
+                            "100uH, 3A": 'L1'
+                        'DO214AC':
+                            '1N5822': "D15"
+                        C1206:
+                            "100nF": "cin_hf"
+                        parasitic: "Cout2"
+
+                })
+                smps_3v3: lm2576-smps {vout: "3.3V"}
+            bom:
+                smps_5v: "c1"
+                smps_3v3: "c2"
+
+            netlist:
+                1: "c2.vfs c1.vfs"
+
+            no-connect: """
+            c1.vff, c1.vout, c1.gnd, c2.vff, c2.vout, c2.gnd
+            """

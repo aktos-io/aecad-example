@@ -1,0 +1,21 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='0' height='0' viewBox='0,0,0,0' data='{&quot;name&quot;:&quot;aeCAD by Aktos Electronics&quot;,&quot;website&quot;:&quot;https://aktos.io/aecad&quot;,&quot;dependencies&quot;:{&quot;aecad&quot;:&quot;908f46a&quot;}}'>
+  <g transform='translate(0, 0) scale(-2,2)'>
+    <g id='gui' fill='none' fill-rule='nonzero' stroke='none' stroke-width='1' stroke-linecap='butt' stroke-linejoin='miter' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='sans-serif' font-weight='normal' font-size='12' text-anchor='start' style='mix-blend-mode: normal'>
+      <g transform='translate(-88.6063,94.65355) rotate(90)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Trace&quot;,&quot;tid&quot;:&quot;3Q2z2RjEZ&quot;,&quot;netid&quot;:&quot;1&quot;,&quot;rotation&quot;:90}}' />
+      <g transform='translate(-88.6063,28.77952) rotate(90)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Jumper_1206&quot;,&quot;name&quot;:&quot;c1&quot;,&quot;value&quot;:&quot;&quot;,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;1&quot;},&quot;side&quot;:&quot;F.Cu&quot;,&quot;labels&quot;:null,&quot;rev&quot;:3,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:1},&quot;orig_labels&quot;:null,&quot;rotation&quot;:90,&quot;userDefined&quot;:&quot;&quot;}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:0.9,&quot;height&quot;:1.6,&quot;pin&quot;:1,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;rotation&quot;:90}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:0.9,&quot;height&quot;:1.6,&quot;pin&quot;:2,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;rotation&quot;:90}}' />
+      </g>
+      <g transform='translate(-88.60631,-37.09449) rotate(90)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Jumper_1206&quot;,&quot;name&quot;:&quot;c2&quot;,&quot;value&quot;:&quot;&quot;,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;1&quot;},&quot;side&quot;:&quot;F.Cu&quot;,&quot;labels&quot;:null,&quot;rev&quot;:3,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:1},&quot;orig_labels&quot;:null,&quot;rotation&quot;:90,&quot;userDefined&quot;:&quot;&quot;}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:0.9,&quot;height&quot;:1.6,&quot;pin&quot;:1,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;rotation&quot;:90}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:0.9,&quot;height&quot;:1.6,&quot;pin&quot;:2,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;userDefined&quot;:&quot;hello&quot;,&quot;rotation&quot;:90}}' />
+      </g>
+    </g>
+    <g id='scripting' fill='none' fill-rule='nonzero' stroke='none' stroke-width='1' stroke-linecap='butt' stroke-linejoin='miter' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='sans-serif' font-weight='normal' font-size='12' text-anchor='start' style='mix-blend-mode: normal'>
+      <g transform='translate(-80.61417,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;TestBoundary&quot;,&quot;name&quot;:&quot;c3&quot;,&quot;value&quot;:&quot;8mm&quot;,&quot;labels&quot;:null,&quot;rev&quot;:1,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;1&quot;},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:1},&quot;orig_labels&quot;:null}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:4,&quot;height&quot;:8,&quot;pin&quot;:1,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:4,&quot;height&quot;:8,&quot;pin&quot;:2,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;userDefined&quot;:&quot;&quot;}}' />
+      </g>
+    </g>
+  </g>
+</svg>

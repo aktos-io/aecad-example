@@ -1,0 +1,234 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='159.01733' height='144.8315' viewBox='-273.60945,-36.17008,159.01733,144.8315' data='{&quot;name&quot;:&quot;aeCAD by Aktos Electronics&quot;,&quot;website&quot;:&quot;https://aktos.io/aecad&quot;,&quot;dependencies&quot;:{&quot;aecad&quot;:&quot;908f46a&quot;}}'>
+  <g id='gui' fill='none' fill-rule='nonzero' stroke='none' stroke-width='none' stroke-linecap='none' stroke-linejoin='none' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='none' font-weight='none' font-size='none' text-anchor='none' style='mix-blend-mode: normal'>
+    <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Trace&quot;,&quot;tid&quot;:&quot;mk-QRxPJH&quot;,&quot;netid&quot;:&quot;2&quot;}}' fill='none' stroke='#000000' stroke-width='1.32283' stroke-linecap='round' stroke-linejoin='round'>
+      <path d='M-201.89606,1.51181h-3.91435l-6.65812,-6.65812v-7.82862l2.23675,-2.23674h55.7323l13.42049,13.42048' data-paper-data='{&quot;aecad&quot;:{&quot;side&quot;:&quot;B.Cu&quot;}}' />
+    </g>
+    <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;RefCross&quot;,&quot;name&quot;:&quot;__b&quot;,&quot;value&quot;:&quot;&quot;,&quot;side&quot;:&quot;Edge&quot;,&quot;helper&quot;:true,&quot;labels&quot;:null,&quot;orig_labels&quot;:null}}' fill='none' stroke='#000000' stroke-width='1' stroke-linecap='butt' stroke-linejoin='miter' font-family='sans-serif' font-weight='normal' font-size='12' text-anchor='start' />
+    <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;RefCross&quot;,&quot;name&quot;:&quot;__a&quot;,&quot;value&quot;:&quot;&quot;,&quot;side&quot;:&quot;Edge&quot;,&quot;helper&quot;:true,&quot;labels&quot;:null,&quot;orig_labels&quot;:null}}' fill='none' stroke='#000000' stroke-width='1' stroke-linecap='butt' stroke-linejoin='miter' font-family='sans-serif' font-weight='normal' font-size='12' text-anchor='start' />
+    <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;RefCross&quot;,&quot;value&quot;:&quot;&quot;,&quot;side&quot;:&quot;Edge&quot;,&quot;helper&quot;:true}}' fill='none' stroke='#000000' stroke-width='1' stroke-linecap='butt' stroke-linejoin='miter' font-family='sans-serif' font-weight='normal' font-size='12' text-anchor='start' />
+    <g transform='translate(-178.84094,58.55118) rotate(-180) scale(1,-1)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Max485_SO8&quot;,&quot;name&quot;:&quot;x&quot;,&quot;value&quot;:&quot;&quot;,&quot;labels&quot;:null,&quot;_labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;orig_labels&quot;:null,&quot;side&quot;:&quot;B.Cu&quot;}}' fill='#000000' stroke='none' stroke-width='0' stroke-linecap='butt' stroke-linejoin='miter'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;width&quot;:1.2,&quot;height&quot;:0.8},&quot;rows&quot;:{&quot;count&quot;:4,&quot;interval&quot;:1.27},&quot;labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:1,&quot;label&quot;:&quot;ro&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='0' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:2,&quot;label&quot;:&quot;N_re&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='4.8' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:3,&quot;label&quot;:&quot;de&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='9.6' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:4,&quot;label&quot;:&quot;di&quot;,&quot;netid&quot;:&quot;4&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='14.4' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+      </g>
+      <g transform='translate(20.7874,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;start&quot;:5,&quot;dir&quot;:&quot;-y&quot;,&quot;pad&quot;:{&quot;width&quot;:1.2,&quot;height&quot;:0.8},&quot;rows&quot;:{&quot;count&quot;:4,&quot;interval&quot;:1.27},&quot;labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:8,&quot;label&quot;:&quot;vcc&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='0' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:7,&quot;label&quot;:&quot;B&quot;,&quot;netid&quot;:&quot;9&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='4.8' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:6,&quot;label&quot;:&quot;A&quot;,&quot;netid&quot;:&quot;10&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='9.6' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:5,&quot;label&quot;:&quot;gnd&quot;,&quot;netid&quot;:&quot;1&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='14.4' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+      </g>
+    </g>
+    <g transform='translate(-178.84094,87.82677) rotate(-180) scale(1,-1)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Max485_SO8&quot;,&quot;name&quot;:&quot;y&quot;,&quot;value&quot;:&quot;&quot;,&quot;labels&quot;:null,&quot;_labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;orig_labels&quot;:null,&quot;side&quot;:&quot;B.Cu&quot;}}' fill='#000000' stroke='none' stroke-width='0' stroke-linecap='butt' stroke-linejoin='miter'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;width&quot;:1.2,&quot;height&quot;:0.8},&quot;rows&quot;:{&quot;count&quot;:4,&quot;interval&quot;:1.27},&quot;labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:1,&quot;label&quot;:&quot;ro&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='0' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:2,&quot;label&quot;:&quot;N_re&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='4.8' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:3,&quot;label&quot;:&quot;de&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='9.6' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:4,&quot;label&quot;:&quot;di&quot;,&quot;netid&quot;:&quot;3&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='14.4' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+      </g>
+      <g transform='translate(20.7874,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;start&quot;:5,&quot;dir&quot;:&quot;-y&quot;,&quot;pad&quot;:{&quot;width&quot;:1.2,&quot;height&quot;:0.8},&quot;rows&quot;:{&quot;count&quot;:4,&quot;interval&quot;:1.27},&quot;labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:8,&quot;label&quot;:&quot;vcc&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='0' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:7,&quot;label&quot;:&quot;B&quot;,&quot;netid&quot;:&quot;7&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='4.8' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:6,&quot;label&quot;:&quot;A&quot;,&quot;netid&quot;:&quot;8&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='9.6' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:5,&quot;label&quot;:&quot;gnd&quot;,&quot;netid&quot;:&quot;1&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='14.4' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+      </g>
+    </g>
+    <g transform='translate(-178.84094,29.27559) rotate(-180) scale(1,-1)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Max485_SO8&quot;,&quot;name&quot;:&quot;sync&quot;,&quot;value&quot;:&quot;&quot;,&quot;labels&quot;:null,&quot;_labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;orig_labels&quot;:null,&quot;side&quot;:&quot;B.Cu&quot;}}' fill='#000000' stroke='none' stroke-width='0' stroke-linecap='butt' stroke-linejoin='miter'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;width&quot;:1.2,&quot;height&quot;:0.8},&quot;rows&quot;:{&quot;count&quot;:4,&quot;interval&quot;:1.27},&quot;labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:1,&quot;label&quot;:&quot;ro&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='0' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:2,&quot;label&quot;:&quot;N_re&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='4.8' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:3,&quot;label&quot;:&quot;de&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='9.6' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:4,&quot;label&quot;:&quot;di&quot;,&quot;netid&quot;:&quot;5&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='14.4' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+      </g>
+      <g transform='translate(20.7874,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;start&quot;:5,&quot;dir&quot;:&quot;-y&quot;,&quot;pad&quot;:{&quot;width&quot;:1.2,&quot;height&quot;:0.8},&quot;rows&quot;:{&quot;count&quot;:4,&quot;interval&quot;:1.27},&quot;labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:8,&quot;label&quot;:&quot;vcc&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='0' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:7,&quot;label&quot;:&quot;B&quot;,&quot;netid&quot;:&quot;11&quot;,&quot;userDefined&quot;:&quot;&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='4.8' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:6,&quot;label&quot;:&quot;A&quot;,&quot;netid&quot;:&quot;12&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='9.6' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:5,&quot;label&quot;:&quot;gnd&quot;,&quot;netid&quot;:&quot;1&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='14.4' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+      </g>
+    </g>
+    <g transform='translate(-178.84094,0) rotate(-180) scale(1,-1)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Max485_SO8&quot;,&quot;name&quot;:&quot;clk&quot;,&quot;value&quot;:&quot;&quot;,&quot;labels&quot;:null,&quot;_labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;orig_labels&quot;:null,&quot;side&quot;:&quot;B.Cu&quot;}}' fill='#000000' stroke='none' stroke-width='0' stroke-linecap='butt' stroke-linejoin='miter'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;width&quot;:1.2,&quot;height&quot;:0.8},&quot;rows&quot;:{&quot;count&quot;:4,&quot;interval&quot;:1.27},&quot;labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:1,&quot;label&quot;:&quot;ro&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='0' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:2,&quot;label&quot;:&quot;N_re&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='4.8' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:3,&quot;label&quot;:&quot;de&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='9.6' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:4,&quot;label&quot;:&quot;di&quot;,&quot;netid&quot;:&quot;6&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='14.4' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+      </g>
+      <g transform='translate(20.7874,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;start&quot;:5,&quot;dir&quot;:&quot;-y&quot;,&quot;pad&quot;:{&quot;width&quot;:1.2,&quot;height&quot;:0.8},&quot;rows&quot;:{&quot;count&quot;:4,&quot;interval&quot;:1.27},&quot;labels&quot;:{&quot;1&quot;:&quot;ro&quot;,&quot;2&quot;:&quot;N_re&quot;,&quot;3&quot;:&quot;de&quot;,&quot;4&quot;:&quot;di&quot;,&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;},&quot;_iface&quot;:{&quot;5&quot;:&quot;gnd&quot;,&quot;6&quot;:&quot;A&quot;,&quot;7&quot;:&quot;B&quot;,&quot;8&quot;:&quot;vcc&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:8,&quot;label&quot;:&quot;vcc&quot;,&quot;netid&quot;:&quot;2&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='0' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:7,&quot;label&quot;:&quot;B&quot;,&quot;netid&quot;:&quot;13&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='4.8' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:6,&quot;label&quot;:&quot;A&quot;,&quot;netid&quot;:&quot;14&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='9.6' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:1.2,&quot;height&quot;:0.8,&quot;pin&quot;:5,&quot;label&quot;:&quot;gnd&quot;,&quot;netid&quot;:&quot;1&quot;,&quot;userDefined&quot;:&quot;&quot;,&quot;mirrored&quot;:true}}'>
+          <rect x='0.00001' y='14.4' width='4.53543' height='3.02362' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+      </g>
+    </g>
+    <g transform='translate(-270.0378,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Conn&quot;,&quot;name&quot;:&quot;conn1&quot;,&quot;value&quot;:&quot;1x6 2.54mm&quot;,&quot;labels&quot;:null,&quot;rev&quot;:1,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;2&quot;,&quot;3&quot;:&quot;3&quot;,&quot;4&quot;:&quot;4&quot;,&quot;5&quot;:&quot;5&quot;,&quot;6&quot;:&quot;6&quot;},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6},&quot;orig_labels&quot;:null,&quot;side&quot;:&quot;F.Cu&quot;}}' stroke='none' stroke-width='0' stroke-linecap='butt' stroke-linejoin='miter'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;drill&quot;:0.9,&quot;dia&quot;:1.89},&quot;cols&quot;:{&quot;count&quot;:1,&quot;interval&quot;:2.54},&quot;rows&quot;:{&quot;count&quot;:6,&quot;interval&quot;:2.54},&quot;dir&quot;:&quot;x&quot;,&quot;labels&quot;:null,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:2,&quot;3&quot;:3,&quot;4&quot;:4,&quot;5&quot;:5,&quot;6&quot;:6}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:1,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;}}'>
+          <circle cx='0' cy='0' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,0c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:2,&quot;label&quot;:2,&quot;netid&quot;:&quot;6&quot;}}'>
+          <circle cx='0' cy='9.6' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,9.6c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:3,&quot;label&quot;:3,&quot;netid&quot;:&quot;5&quot;}}'>
+          <circle cx='0' cy='19.2' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,19.2c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:4,&quot;label&quot;:4,&quot;netid&quot;:&quot;4&quot;,&quot;userDefined&quot;:&quot;&quot;}}'>
+          <circle cx='0' cy='28.8' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,28.8c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:5,&quot;label&quot;:5,&quot;netid&quot;:&quot;3&quot;}}'>
+          <circle cx='0' cy='38.4' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,38.4c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.89,&quot;pin&quot;:6,&quot;label&quot;:6,&quot;netid&quot;:&quot;2&quot;}}'>
+          <circle cx='0' cy='48' r='3.57165' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+          <path d='M-0.94488,48c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+        </g>
+      </g>
+    </g>
+    <g transform='translate(-128.84094,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;GalvoHead15_v2&quot;,&quot;name&quot;:&quot;c1&quot;,&quot;value&quot;:&quot;&quot;,&quot;labels&quot;:null,&quot;_iface&quot;:{&quot;1&quot;:&quot;clk-&quot;,&quot;2&quot;:&quot;sync-&quot;,&quot;3&quot;:&quot;x-&quot;,&quot;4&quot;:&quot;y-&quot;,&quot;5&quot;:&quot;y_stat-&quot;,&quot;6&quot;:&quot;x_stat-&quot;,&quot;7&quot;:&quot;nc&quot;,&quot;8&quot;:&quot;nc&quot;,&quot;9&quot;:&quot;clk+&quot;,&quot;10&quot;:&quot;sync+&quot;,&quot;11&quot;:&quot;x+&quot;,&quot;12&quot;:&quot;y+&quot;,&quot;13&quot;:&quot;y_stat+&quot;,&quot;14&quot;:&quot;x_stat+&quot;,&quot;15&quot;:&quot;nc&quot;,&quot;S&quot;:&quot;S&quot;},&quot;_labels&quot;:{&quot;1&quot;:&quot;clk-&quot;,&quot;2&quot;:&quot;sync-&quot;,&quot;3&quot;:&quot;x-&quot;,&quot;4&quot;:&quot;y-&quot;,&quot;5&quot;:&quot;y_stat-&quot;,&quot;6&quot;:&quot;x_stat-&quot;,&quot;7&quot;:&quot;nc&quot;,&quot;8&quot;:&quot;nc&quot;,&quot;9&quot;:&quot;clk+&quot;,&quot;10&quot;:&quot;sync+&quot;,&quot;11&quot;:&quot;x+&quot;,&quot;12&quot;:&quot;y+&quot;,&quot;13&quot;:&quot;y_stat+&quot;,&quot;14&quot;:&quot;x_stat+&quot;,&quot;15&quot;:&quot;nc&quot;,&quot;S&quot;:&quot;S&quot;},&quot;orig_labels&quot;:null,&quot;side&quot;:&quot;F.Cu&quot;}}' stroke='none' stroke-width='0' stroke-linecap='butt' stroke-linejoin='miter'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;DoublePinArray&quot;,&quot;name&quot;:&quot;c_&quot;,&quot;distance&quot;:2.54,&quot;left&quot;:{&quot;pad&quot;:{&quot;drill&quot;:0.9,&quot;dia&quot;:1.9},&quot;rows&quot;:{&quot;count&quot;:8,&quot;interval&quot;:2.74},&quot;cols&quot;:{&quot;count&quot;:1}},&quot;right&quot;:{&quot;pad&quot;:{&quot;drill&quot;:0.9,&quot;dia&quot;:1.9},&quot;start&quot;:9,&quot;rows&quot;:{&quot;count&quot;:7,&quot;interval&quot;:2.74}},&quot;labels&quot;:{&quot;1&quot;:&quot;clk-&quot;,&quot;2&quot;:&quot;sync-&quot;,&quot;3&quot;:&quot;x-&quot;,&quot;4&quot;:&quot;y-&quot;,&quot;5&quot;:&quot;y_stat-&quot;,&quot;6&quot;:&quot;x_stat-&quot;,&quot;7&quot;:&quot;nc&quot;,&quot;8&quot;:&quot;nc&quot;,&quot;9&quot;:&quot;clk+&quot;,&quot;10&quot;:&quot;sync+&quot;,&quot;11&quot;:&quot;x+&quot;,&quot;12&quot;:&quot;y+&quot;,&quot;13&quot;:&quot;y_stat+&quot;,&quot;14&quot;:&quot;x_stat+&quot;,&quot;15&quot;:&quot;nc&quot;,&quot;S&quot;:&quot;S&quot;},&quot;allowDuplicateLabels&quot;:true,&quot;_iface&quot;:{&quot;1&quot;:&quot;clk-&quot;,&quot;2&quot;:&quot;sync-&quot;,&quot;3&quot;:&quot;x-&quot;,&quot;4&quot;:&quot;y-&quot;,&quot;5&quot;:&quot;y_stat-&quot;,&quot;6&quot;:&quot;x_stat-&quot;,&quot;7&quot;:&quot;nc&quot;,&quot;8&quot;:&quot;nc&quot;,&quot;9&quot;:&quot;clk+&quot;,&quot;10&quot;:&quot;sync+&quot;,&quot;11&quot;:&quot;x+&quot;,&quot;12&quot;:&quot;y+&quot;,&quot;13&quot;:&quot;y_stat+&quot;,&quot;14&quot;:&quot;x_stat+&quot;,&quot;15&quot;:&quot;nc&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;drill&quot;:0.9,&quot;dia&quot;:1.9},&quot;rows&quot;:{&quot;count&quot;:8,&quot;interval&quot;:2.74},&quot;cols&quot;:{&quot;count&quot;:1},&quot;labels&quot;:{&quot;1&quot;:&quot;clk-&quot;,&quot;2&quot;:&quot;sync-&quot;,&quot;3&quot;:&quot;x-&quot;,&quot;4&quot;:&quot;y-&quot;,&quot;5&quot;:&quot;y_stat-&quot;,&quot;6&quot;:&quot;x_stat-&quot;,&quot;7&quot;:&quot;nc&quot;,&quot;8&quot;:&quot;nc&quot;,&quot;9&quot;:&quot;clk+&quot;,&quot;10&quot;:&quot;sync+&quot;,&quot;11&quot;:&quot;x+&quot;,&quot;12&quot;:&quot;y+&quot;,&quot;13&quot;:&quot;y_stat+&quot;,&quot;14&quot;:&quot;x_stat+&quot;,&quot;15&quot;:&quot;nc&quot;,&quot;S&quot;:&quot;S&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;clk-&quot;,&quot;2&quot;:&quot;sync-&quot;,&quot;3&quot;:&quot;x-&quot;,&quot;4&quot;:&quot;y-&quot;,&quot;5&quot;:&quot;y_stat-&quot;,&quot;6&quot;:&quot;x_stat-&quot;,&quot;7&quot;:&quot;nc&quot;,&quot;8&quot;:&quot;nc&quot;}}}'>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:1,&quot;label&quot;:&quot;clk-&quot;,&quot;netid&quot;:&quot;14&quot;}}'>
+            <circle cx='0' cy='0' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,0c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:2,&quot;label&quot;:&quot;sync-&quot;,&quot;netid&quot;:&quot;12&quot;}}'>
+            <circle cx='0' cy='10.35591' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,10.35591c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42303 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:3,&quot;label&quot;:&quot;x-&quot;,&quot;netid&quot;:&quot;10&quot;}}'>
+            <circle cx='0' cy='20.71181' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,20.71181c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:4,&quot;label&quot;:&quot;y-&quot;,&quot;netid&quot;:&quot;8&quot;}}'>
+            <circle cx='0' cy='31.06772' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,31.06772c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42303 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:5,&quot;label&quot;:&quot;y_stat-&quot;}}'>
+            <circle cx='0' cy='41.42362' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,41.42362c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:6,&quot;label&quot;:&quot;x_stat-&quot;}}'>
+            <circle cx='0' cy='51.77953' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,51.77953c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42303 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:7,&quot;label&quot;:&quot;nc&quot;}}'>
+            <circle cx='0' cy='62.13543' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,62.13543c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42303 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:8,&quot;label&quot;:&quot;nc&quot;}}'>
+            <circle cx='0' cy='72.49134' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,72.49134c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+        </g>
+        <g transform='translate(9.6,5.17795)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;drill&quot;:0.9,&quot;dia&quot;:1.9},&quot;start&quot;:9,&quot;rows&quot;:{&quot;count&quot;:7,&quot;interval&quot;:2.74},&quot;labels&quot;:{&quot;1&quot;:&quot;clk-&quot;,&quot;2&quot;:&quot;sync-&quot;,&quot;3&quot;:&quot;x-&quot;,&quot;4&quot;:&quot;y-&quot;,&quot;5&quot;:&quot;y_stat-&quot;,&quot;6&quot;:&quot;x_stat-&quot;,&quot;7&quot;:&quot;nc&quot;,&quot;8&quot;:&quot;nc&quot;,&quot;9&quot;:&quot;clk+&quot;,&quot;10&quot;:&quot;sync+&quot;,&quot;11&quot;:&quot;x+&quot;,&quot;12&quot;:&quot;y+&quot;,&quot;13&quot;:&quot;y_stat+&quot;,&quot;14&quot;:&quot;x_stat+&quot;,&quot;15&quot;:&quot;nc&quot;,&quot;S&quot;:&quot;S&quot;},&quot;_iface&quot;:{&quot;9&quot;:&quot;clk+&quot;,&quot;10&quot;:&quot;sync+&quot;,&quot;11&quot;:&quot;x+&quot;,&quot;12&quot;:&quot;y+&quot;,&quot;13&quot;:&quot;y_stat+&quot;,&quot;14&quot;:&quot;x_stat+&quot;,&quot;15&quot;:&quot;nc&quot;}}}'>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:9,&quot;label&quot;:&quot;clk+&quot;,&quot;netid&quot;:&quot;13&quot;}}'>
+            <circle cx='0' cy='0' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,0c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:10,&quot;label&quot;:&quot;sync+&quot;,&quot;netid&quot;:&quot;11&quot;}}'>
+            <circle cx='0' cy='10.35591' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,10.35591c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42303 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:11,&quot;label&quot;:&quot;x+&quot;,&quot;netid&quot;:&quot;9&quot;,&quot;userDefined&quot;:&quot;&quot;}}'>
+            <circle cx='0' cy='20.71181' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,20.71181c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:12,&quot;label&quot;:&quot;y+&quot;,&quot;netid&quot;:&quot;7&quot;}}'>
+            <circle cx='0' cy='31.06772' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,31.06772c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42303 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:13,&quot;label&quot;:&quot;y_stat+&quot;}}'>
+            <circle cx='0' cy='41.42362' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,41.42362c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:14,&quot;label&quot;:&quot;x_stat+&quot;}}'>
+            <circle cx='0' cy='51.77953' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,51.77953c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42303 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+          <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:0.9,&quot;dia&quot;:1.9,&quot;pin&quot;:15,&quot;label&quot;:&quot;nc&quot;}}'>
+            <circle cx='0' cy='62.13543' r='3.59055' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+            <path d='M-0.94488,62.13543c0,-0.52185 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42303 0.94488,0.94488c0,0.52185 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+          </g>
+        </g>
+      </g>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:3.1,&quot;dia&quot;:5,&quot;pin&quot;:&quot;S&quot;}}'>
+        <circle cx='4.8' cy='-26.72126' r='9.44882' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+        <path d='M3.85512,-26.72126c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+      </g>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;drill&quot;:3.1,&quot;dia&quot;:5,&quot;pin&quot;:&quot;S&quot;}}'>
+        <circle cx='4.8' cy='99.2126' r='9.44882' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' fill='#000000' />
+        <path d='M3.85512,99.2126c0,-0.52184 0.42304,-0.94488 0.94488,-0.94488c0.52184,0 0.94488,0.42304 0.94488,0.94488c0,0.52184 -0.42304,0.94488 -0.94488,0.94488c-0.52184,0 -0.94488,-0.42304 -0.94488,-0.94488z' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;drill&quot;}}' fill='#ffffff' />
+      </g>
+    </g>
+  </g>
+</svg>

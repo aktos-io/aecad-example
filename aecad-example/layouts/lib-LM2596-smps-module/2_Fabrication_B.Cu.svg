@@ -1,0 +1,14 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='0' height='0' viewBox='0,0,0,0' data='{&quot;name&quot;:&quot;aeCAD by Aktos Electronics&quot;,&quot;website&quot;:&quot;https://aktos.io/aecad&quot;,&quot;dependencies&quot;:{&quot;aecad&quot;:&quot;908f46a&quot;}}'>
+  <g id='scripting' fill='none' fill-rule='nonzero' stroke='none' stroke-width='1' stroke-linecap='butt' stroke-linejoin='miter' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='sans-serif' font-weight='normal' font-size='12' text-anchor='start' style='mix-blend-mode: normal'>
+    <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;LM2596_Module&quot;,&quot;rev&quot;:5,&quot;_labels&quot;:{&quot;1&quot;:&quot;in+&quot;,&quot;2&quot;:&quot;in-&quot;,&quot;3&quot;:&quot;out-&quot;,&quot;4&quot;:&quot;out+&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;in+&quot;,&quot;2&quot;:&quot;in-&quot;,&quot;3&quot;:&quot;out-&quot;,&quot;4&quot;:&quot;out+&quot;}}}'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;pad&quot;:{&quot;height&quot;:3,&quot;width&quot;:3},&quot;rows&quot;:{&quot;count&quot;:2,&quot;interval&quot;:17.6},&quot;labels&quot;:{&quot;1&quot;:&quot;in+&quot;,&quot;2&quot;:&quot;in-&quot;,&quot;3&quot;:&quot;out-&quot;,&quot;4&quot;:&quot;out+&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;in+&quot;,&quot;2&quot;:&quot;in-&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:3,&quot;width&quot;:3,&quot;pin&quot;:1,&quot;label&quot;:&quot;in+&quot;}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:3,&quot;width&quot;:3,&quot;pin&quot;:2,&quot;label&quot;:&quot;in-&quot;}}' />
+      </g>
+      <g transform='translate(150.4252,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;PinArray&quot;,&quot;start&quot;:3,&quot;pad&quot;:{&quot;height&quot;:3,&quot;width&quot;:3},&quot;dir&quot;:&quot;-y&quot;,&quot;rows&quot;:{&quot;count&quot;:2,&quot;interval&quot;:17.6},&quot;labels&quot;:{&quot;1&quot;:&quot;in+&quot;,&quot;2&quot;:&quot;in-&quot;,&quot;3&quot;:&quot;out-&quot;,&quot;4&quot;:&quot;out+&quot;},&quot;_iface&quot;:{&quot;3&quot;:&quot;out-&quot;,&quot;4&quot;:&quot;out+&quot;}}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:3,&quot;width&quot;:3,&quot;pin&quot;:4,&quot;label&quot;:&quot;out+&quot;}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;height&quot;:3,&quot;width&quot;:3,&quot;pin&quot;:3,&quot;label&quot;:&quot;out-&quot;}}' />
+      </g>
+    </g>
+  </g>
+</svg>

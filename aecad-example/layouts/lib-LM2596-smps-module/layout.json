@@ -1,0 +1,309 @@
+[
+  [
+    "aeCAD",
+    {
+      "name": "aeCAD by Aktos Electronics",
+      "website": "https://aktos.io/aecad",
+      "dependencies": {"aecad": "908f46a"}
+    }
+  ],
+  [
+    "Layer",
+    {
+      "name": "scripting",
+      "applyMatrix": true,
+      "selected": true,
+      "children": [
+        [
+          "Group",
+          {
+            "applyMatrix": false,
+            "data": {
+              "aecad": {
+                "type": "LM2596_Module",
+                "rev": 5,
+                "_labels": {"1": "in+", "2": "in-", "3": "out-", "4": "out+"},
+                "_iface": {"1": "in+", "2": "in-", "3": "out-", "4": "out+"}
+              }
+            },
+            "children": [
+              [
+                "Group",
+                {
+                  "applyMatrix": false,
+                  "data": {
+                    "aecad": {
+                      "type": "PinArray",
+                      "pad": {"height": 3, "width": 3},
+                      "rows": {"count": 2, "interval": 17.6},
+                      "labels": {
+                        "1": "in+",
+                        "2": "in-",
+                        "3": "out-",
+                        "4": "out+"
+                      },
+                      "_iface": {"1": "in+", "2": "in-"}
+                    }
+                  },
+                  "children": [
+                    [
+                      "Group",
+                      {
+                        "applyMatrix": true,
+                        "data": {
+                          "aecad": {
+                            "type": "Pad",
+                            "height": 3,
+                            "width": 3,
+                            "pin": 1,
+                            "label": "in+"
+                          }
+                        },
+                        "children": [
+                          [
+                            "Shape",
+                            {
+                              "applyMatrix": false,
+                              "matrix": [1, 0, 0, 1, 5.66929, 5.66929],
+                              "data": {"aecad": {"part": "cu"}},
+                              "type": "rectangle",
+                              "size": [11.33858, 11.33858],
+                              "radius": [0, 0],
+                              "fillColor": [0.78039, 0.08235, 0.52157],
+                              "strokeWidth": 0
+                            }
+                          ],
+                          [
+                            "PointText",
+                            {
+                              "applyMatrix": false,
+                              "matrix": [
+                                6.2424,
+                                0,
+                                0,
+                                6.2424,
+                                5.66929,
+                                7.16747
+                              ],
+                              "data": {"aecad": {"part": "ttip"}},
+                              "content": "in+",
+                              "fillColor": [1, 1, 1],
+                              "fontSize": 0.8,
+                              "leading": 0.96,
+                              "justification": "center"
+                            }
+                          ]
+                        ]
+                      }
+                    ],
+                    [
+                      "Group",
+                      {
+                        "applyMatrix": true,
+                        "data": {
+                          "aecad": {
+                            "type": "Pad",
+                            "height": 3,
+                            "width": 3,
+                            "pin": 2,
+                            "label": "in-"
+                          }
+                        },
+                        "children": [
+                          [
+                            "Shape",
+                            {
+                              "applyMatrix": false,
+                              "matrix": [1, 0, 0, 1, 5.66929, 72.18898],
+                              "data": {"aecad": {"part": "cu"}},
+                              "type": "rectangle",
+                              "size": [11.33858, 11.33858],
+                              "radius": [0, 0],
+                              "fillColor": [0.78039, 0.08235, 0.52157],
+                              "strokeWidth": 0
+                            }
+                          ],
+                          [
+                            "PointText",
+                            {
+                              "applyMatrix": false,
+                              "matrix": [
+                                7.08661,
+                                0,
+                                0,
+                                7.08661,
+                                5.66929,
+                                73.88977
+                              ],
+                              "data": {"aecad": {"part": "ttip"}},
+                              "content": "in-",
+                              "fillColor": [1, 1, 1],
+                              "fontSize": 0.8,
+                              "leading": 0.96,
+                              "justification": "center"
+                            }
+                          ]
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ],
+              [
+                "Group",
+                {
+                  "applyMatrix": false,
+                  "matrix": [1, 0, 0, 1, 150.4252, 0],
+                  "data": {
+                    "aecad": {
+                      "type": "PinArray",
+                      "start": 3,
+                      "pad": {"height": 3, "width": 3},
+                      "dir": "-y",
+                      "rows": {"count": 2, "interval": 17.6},
+                      "labels": {
+                        "1": "in+",
+                        "2": "in-",
+                        "3": "out-",
+                        "4": "out+"
+                      },
+                      "_iface": {"3": "out-", "4": "out+"}
+                    }
+                  },
+                  "children": [
+                    [
+                      "Group",
+                      {
+                        "applyMatrix": true,
+                        "data": {
+                          "aecad": {
+                            "type": "Pad",
+                            "height": 3,
+                            "width": 3,
+                            "pin": 4,
+                            "label": "out+"
+                          }
+                        },
+                        "children": [
+                          [
+                            "Shape",
+                            {
+                              "applyMatrix": false,
+                              "matrix": [1, 0, 0, 1, 5.66929, 5.66929],
+                              "data": {"aecad": {"part": "cu"}},
+                              "type": "rectangle",
+                              "size": [11.33858, 11.33858],
+                              "radius": [0, 0],
+                              "fillColor": [0.78039, 0.08235, 0.52157],
+                              "strokeWidth": 0
+                            }
+                          ],
+                          [
+                            "PointText",
+                            {
+                              "applyMatrix": false,
+                              "matrix": [
+                                4.30778,
+                                0,
+                                0,
+                                4.30778,
+                                5.66929,
+                                6.70316
+                              ],
+                              "data": {"aecad": {"part": "ttip"}},
+                              "content": "out+",
+                              "fillColor": [1, 1, 1],
+                              "fontSize": 0.8,
+                              "leading": 0.96,
+                              "justification": "center"
+                            }
+                          ]
+                        ]
+                      }
+                    ],
+                    [
+                      "Group",
+                      {
+                        "applyMatrix": true,
+                        "data": {
+                          "aecad": {
+                            "type": "Pad",
+                            "height": 3,
+                            "width": 3,
+                            "pin": 3,
+                            "label": "out-"
+                          }
+                        },
+                        "children": [
+                          [
+                            "Shape",
+                            {
+                              "applyMatrix": false,
+                              "matrix": [1, 0, 0, 1, 5.66929, 72.18898],
+                              "data": {"aecad": {"part": "cu"}},
+                              "type": "rectangle",
+                              "size": [11.33858, 11.33858],
+                              "radius": [0, 0],
+                              "fillColor": [0.78039, 0.08235, 0.52157],
+                              "strokeWidth": 0
+                            }
+                          ],
+                          [
+                            "PointText",
+                            {
+                              "applyMatrix": false,
+                              "matrix": [
+                                4.9352,
+                                0,
+                                0,
+                                4.9352,
+                                5.66929,
+                                73.37343
+                              ],
+                              "data": {"aecad": {"part": "ttip"}},
+                              "content": "out-",
+                              "fillColor": [1, 1, 1],
+                              "fontSize": 0.8,
+                              "leading": 0.96,
+                              "justification": "center"
+                            }
+                          ]
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ],
+              [
+                "Shape",
+                {
+                  "applyMatrix": false,
+                  "matrix": [1, 0, 0, 1, 80.88189, 38.92913],
+                  "data": {"aecad": {"part": "border1"}},
+                  "type": "rectangle",
+                  "size": [163.2, 79.68],
+                  "radius": [0.3, 0.3],
+                  "strokeColor": [1, 0.07843, 0.57647],
+                  "strokeWidth": 0.2
+                }
+              ],
+              [
+                "Shape",
+                {
+                  "applyMatrix": false,
+                  "matrix": [1, 0, 0, 1, 90.70866, 7.55906],
+                  "data": {"aecad": {"part": "border2"}},
+                  "type": "circle",
+                  "size": [1.88976, 1.88976],
+                  "radius": 0.94488,
+                  "strokeColor": [1, 0.07843, 0.57647],
+                  "strokeWidth": 0.2
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+]

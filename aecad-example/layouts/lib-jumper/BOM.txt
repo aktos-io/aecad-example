@@ -1,0 +1,4 @@
+; count, type: value [instances...]
+; ---------------------------------
+2,	Jumper_1206:		[c1,c2]
+1,	TestBoundary:	8mm	[c3]

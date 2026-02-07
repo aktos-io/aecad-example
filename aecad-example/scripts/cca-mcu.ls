@@ -5,6 +5,7 @@
 
 # depends: DoublePinArray
 provides class Cca_MCU extends DoublePinArray
+    @rev_Cca_MCU = 4
     (data, overrides) ->
         pin-count = 80
         pitch = 2.54mm
@@ -100,7 +101,7 @@ provides class Cca_MCU extends DoublePinArray
         super data, overrides `based-on` do
             distance: two-side-dist
             left:
-                start: pin-count/2
+                start: 41
                 pad: pad
                 cols:
                     count: 2
@@ -108,6 +109,7 @@ provides class Cca_MCU extends DoublePinArray
                 rows:
                     count: pin-count/4
                     interval: pitch
+                mirror: yes
             right:
                 dir: 'x'
                 pad: pad
@@ -124,6 +126,11 @@ provides class Cca_MCU extends DoublePinArray
                 height: 60
 
             labels: cca-mcu-port1
+            dimple:
+                x: 70mm
+                y: -2mm
+                dia: 1mm
+
 
 provides class Cca_MCU_Debug extends PinArray
     (data, overrides) ->

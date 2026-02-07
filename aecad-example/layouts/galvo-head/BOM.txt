@@ -1,0 +1,6 @@
+; count, type: value [instances...]
+; ---------------------------------
+1,	GalvoHead15_v2:		[c1]
+4,	Max485_SO8:		[clk,sync,x,y]
+1,	Conn:	1x6 2.54mm	[conn1]
+4,	SMD1206:	120ohm	[s1,s2,s3,s4]

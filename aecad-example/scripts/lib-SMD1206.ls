@@ -50,6 +50,8 @@ add-class class LED1206 extends SMD1206_pol
 
 add-class class C1206 extends SMD1206_pol
 
+provides class D1206 extends SMD1206_pol
+
 add-class class DO214AC extends SMD1206_pol
     # https://www.vishay.com/docs/88746/ss12.pdf
     @rev_DO214AC = 3
@@ -63,6 +65,9 @@ add-class class DO214AC extends SMD1206_pol
                 count: 2
                 interval: 5.28mm - 1.52mm
             border: "default"
+
+
+provides class SMBJ12A extends DO214AC
 
 #new DO214AC
 
@@ -126,5 +131,8 @@ add-class class Sense1206 extends Footprint
                 width: (c + 2 * b) + margin
                 height: a + margin
 
+
+if __main__
+    new DO214AC
 
 #new Sense1206

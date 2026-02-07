@@ -1,0 +1,3 @@
+; count, type: value [instances...]
+; ---------------------------------
+1,	DG142V_5_08_XXP:	6 terminals	[c5]

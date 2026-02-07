@@ -59,9 +59,12 @@ add-class class NPN extends SOT23
                 3: 'c'
         super data, (defaults `aea.merge` overrides)
 
+provides class SOT23_NPN extends NPN
+
 provides class BC817 extends NPN
 
 add-class class PNP extends NPN
+provides class SOT23_PNP extends NPN
 
 add-class class BC807_SOT23 extends PNP
 

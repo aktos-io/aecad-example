@@ -66,12 +66,8 @@ provides class Phoenix_MC extends Conn
         super data, overrides `based-on` {value}
 
 provides class DG142V_5_08_XXP extends Footprint
+    @rev_DG142V_5_08_XXP = 2
     (data, overrides) ->
-        super data, overrides `based-on` {
-            +allow-duplicate-labels
-        }
-
-    create: (data) ->
         value-regex = /^([0-9]+)\s[tT]erminal(s)?/
 
         columns = if data.value.match value-regex
@@ -82,40 +78,60 @@ provides class DG142V_5_08_XXP extends Footprint
             10
 
         labels = {}
+        interconnected-pins = []
         for i in [0 to columns]
             label = data.labels?[i+1] or i+1
-            labels[2*i + 1] = label
-            labels[2*i + 2] = label
+            pinA = 2*i + 1
+            pinB = 2*i + 2
+            labels[pinA] = label
+            labels[pinB] = label
 
+            interconnected-pins.push [pinA, pinB]
+
+        super data, overrides `based-on` {
+            +allow-duplicate-labels
+            interconnected-pins
+            labels
+            columns
+        }
+
+    create: (data) ->
         x = new PinArray do
             parent: this
             pad:
-                drill: 1.3mm
+                drill: 1.2mm
                 dia: 1.3mm * 2
             cols:
                 count: 2
                 interval: 7.62mm
             rows:
-                count: columns
+                count: data.columns
                 interval: 5.08mm
             dir: 'x'
-            labels: labels
-            allow-duplicate-labels: data.allow-duplicate-labels
+            labels: data.labels
+            allow-duplicate-labels: yes
+            border:
+                height: data.columns * 5.08mm + 2.70mm
+                width: 13.60mm
+                offset-x: 3mm/2
+                offset-y: 2.70mm/2
 
         @iface = x.iface
 
 
 if __main__
-    standard new Schema {
+    sch = standard new Schema {
         data:
             iface: []
             bom:
+                /*
                 Conn:
                     "1x2 2.54mm": "c1"
                     "2x4 2.54mm": "c2"
                     "1x8 2.54mm smd": "c3"
                 Phoenix_MC:
                     "MC-1.5_2-G-3.81": "c4"
+                */
                 DG142V_5_08_XXP:
                     "6 terminals":
                         "c5":
@@ -124,7 +140,15 @@ if __main__
                             3: "c"
                             4: "d"
                             5: "e"
-                            6: "f"
+                            6: "ffff"
+                        "c7": null
+                    "4 terminals":
+                        "c8": null
+            netlist:
+                1: "c5.a c5.b"
+                2: "c5.b c5.c"
             disable-drc: "unused"
         }
+
+    sch.components-by-name["c5"].upgrade!
 

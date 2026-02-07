@@ -63,5 +63,12 @@ add-class class PinArray extends Footprint
         else
             data.border
 
-
         @make-border {border}
+
+        if data.dimple
+            @make-border do
+                border:
+                    dia: 0.5mm
+                    centered: no
+                    offset-x:~ -> data.dimple.x
+                    offset-y:~ -> data.dimple.y

@@ -1,0 +1,5 @@
+; count, type: value [instances...]
+; ---------------------------------
+1,	TSSOP_20:		[c1]
+1,	TSSOP_38:		[c2]
+1,	TSSOP_16:		[c3]

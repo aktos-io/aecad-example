@@ -57,7 +57,7 @@ AM26LS32Ax_circuit = (config) -> # provides this
             c1.2a, c1.2b, c1.2y,
             c1.3a, c1.3b, c1.3y,
             c1.4a, c1.4b, c1.4y,
-            c1.vcc, c1.gnd c1.g c1.n_g"
+            c1.vcc, c1.gnd"
         netlist:
             "vcc": "c1.vcc c2.a"
             "gnd": "c1.gnd c2.c  c1.g c1.n_g"

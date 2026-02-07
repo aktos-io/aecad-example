@@ -1,0 +1,33 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='15.51814' height='163.89606' viewBox='-95.50946,-37.9504,15.51814,163.89606' data='{&quot;name&quot;:&quot;aeCAD by Aktos Electronics&quot;,&quot;website&quot;:&quot;https://aktos.io/aecad&quot;,&quot;dependencies&quot;:{&quot;aecad&quot;:&quot;908f46a&quot;}}'>
+  <g transform='translate(95.50946, 37.9504) scale(2,2)'>
+    <g id='gui' fill='none' fill-rule='nonzero' stroke='none' stroke-width='none' stroke-linecap='none' stroke-linejoin='none' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='none' font-weight='none' font-size='none' text-anchor='none' style='mix-blend-mode: normal'>
+      <g transform='translate(-88.6063,94.65355) rotate(90)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Trace&quot;,&quot;tid&quot;:&quot;3Q2z2RjEZ&quot;,&quot;netid&quot;:&quot;1&quot;,&quot;rotation&quot;:90}}' fill='none' stroke='#d3d3d3' stroke-width='1.13386' stroke-linecap='round' stroke-linejoin='round'>
+        <path d='M-119.08661,3.02362h53.62479' data-paper-data='{&quot;aecad&quot;:{&quot;side&quot;:&quot;F.Cu&quot;}}' />
+      </g>
+      <g transform='translate(-88.6063,28.77952) rotate(90)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Jumper_1206&quot;,&quot;name&quot;:&quot;c1&quot;,&quot;value&quot;:&quot;&quot;,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;1&quot;},&quot;side&quot;:&quot;F.Cu&quot;,&quot;labels&quot;:null,&quot;rev&quot;:3,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:1},&quot;orig_labels&quot;:null,&quot;rotation&quot;:90,&quot;userDefined&quot;:&quot;&quot;}}' stroke-linecap='butt' stroke-linejoin='miter'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:0.9,&quot;height&quot;:1.6,&quot;pin&quot;:1,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;rotation&quot;:90}}' fill='#000000' stroke='none' stroke-width='0'>
+          <rect x='0.00001' y='0' width='3.40157' height='6.04724' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:0.9,&quot;height&quot;:1.6,&quot;pin&quot;:2,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;rotation&quot;:90}}' fill='#000000' stroke='none' stroke-width='0'>
+          <rect x='10.96064' y='0' width='3.40157' height='6.04724' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <rect x='-0.75591' y='-0.75591' width='15.87402' height='7.55906' rx='0.3' ry='0.3' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;border1&quot;}}' fill='none' stroke='#000000' stroke-width='0.2' />
+      </g>
+      <g transform='translate(-88.60631,-37.09449) rotate(90)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Jumper_1206&quot;,&quot;name&quot;:&quot;c2&quot;,&quot;value&quot;:&quot;&quot;,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;1&quot;},&quot;side&quot;:&quot;F.Cu&quot;,&quot;labels&quot;:null,&quot;rev&quot;:3,&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:1},&quot;orig_labels&quot;:null,&quot;rotation&quot;:90,&quot;userDefined&quot;:&quot;&quot;}}' stroke-linecap='butt' stroke-linejoin='miter'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:0.9,&quot;height&quot;:1.6,&quot;pin&quot;:1,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;rotation&quot;:90}}' fill='#000000' stroke='none' stroke-width='0'>
+          <rect x='0.00001' y='0' width='3.40157' height='6.04724' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:0.9,&quot;height&quot;:1.6,&quot;pin&quot;:2,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;userDefined&quot;:&quot;hello&quot;,&quot;rotation&quot;:90}}' fill='#000000' stroke='none' stroke-width='0'>
+          <rect x='10.96064' y='0' width='3.40157' height='6.04724' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;cu&quot;}}' />
+        </g>
+        <rect x='-0.75591' y='-0.75591' width='15.87402' height='7.55906' rx='0.3' ry='0.3' data-paper-data='{&quot;aecad&quot;:{&quot;part&quot;:&quot;border1&quot;}}' fill='none' stroke='#000000' stroke-width='0.2' />
+      </g>
+    </g>
+    <g id='scripting' fill='none' fill-rule='nonzero' stroke='none' stroke-width='1' stroke-linecap='butt' stroke-linejoin='miter' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='sans-serif' font-weight='normal' font-size='12' text-anchor='start' style='mix-blend-mode: normal'>
+      <g transform='translate(-80.61417,0)' data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;TestBoundary&quot;,&quot;name&quot;:&quot;c3&quot;,&quot;value&quot;:&quot;8mm&quot;,&quot;labels&quot;:null,&quot;rev&quot;:1,&quot;_labels&quot;:{&quot;1&quot;:&quot;1&quot;,&quot;2&quot;:&quot;1&quot;},&quot;_iface&quot;:{&quot;1&quot;:1,&quot;2&quot;:1},&quot;orig_labels&quot;:null}}'>
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:4,&quot;height&quot;:8,&quot;pin&quot;:1,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;}}' />
+        <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:4,&quot;height&quot;:8,&quot;pin&quot;:2,&quot;label&quot;:1,&quot;netid&quot;:&quot;1&quot;,&quot;userDefined&quot;:&quot;&quot;}}' />
+      </g>
+    </g>
+  </g>
+</svg>

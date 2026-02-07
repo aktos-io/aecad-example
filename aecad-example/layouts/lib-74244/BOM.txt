@@ -1,0 +1,4 @@
+; count, type: value [instances...]
+; ---------------------------------
+1,	SN74HCT244DWR:		[c1]
+1,	_74LCX244:		[c2]

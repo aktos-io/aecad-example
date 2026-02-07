@@ -64,7 +64,7 @@ AM26C31x_circuit = (config) ->
         iface: "c1.1a,c1.1y,c1.1z,c1.2z,
             c1.2y,c1.2a,c1.3a,c1.3y,c1.3z,
             c1.4z,c1.4y,c1.4a c1.vcc c1.gnd,
-            c1.g c1.n_g"
+            "
 
         netlist:
             "vcc": "c1.vcc c2.a"

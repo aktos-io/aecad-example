@@ -1,0 +1,12 @@
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='0' height='0' viewBox='0,0,0,0' data='{&quot;name&quot;:&quot;aeCAD by Aktos Electronics&quot;,&quot;website&quot;:&quot;https://aktos.io/aecad&quot;,&quot;dependencies&quot;:{&quot;aecad&quot;:&quot;908f46a&quot;}}'>
+  <g id='scripting' fill='none' fill-rule='nonzero' stroke='none' stroke-width='1' stroke-linecap='butt' stroke-linejoin='miter' stroke-miterlimit='10' stroke-dasharray='' stroke-dashoffset='0' font-family='sans-serif' font-weight='normal' font-size='12' text-anchor='start' style='mix-blend-mode: normal'>
+    <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Cap_Aluminum_SMD&quot;,&quot;value&quot;:&quot;D&quot;,&quot;rev&quot;:2,&quot;_labels&quot;:{&quot;1&quot;:&quot;a&quot;,&quot;2&quot;:&quot;c&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;a&quot;,&quot;2&quot;:&quot;c&quot;}}}'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:3.2,&quot;height&quot;:1.6,&quot;pin&quot;:1,&quot;label&quot;:&quot;a&quot;}}' />
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:3.2,&quot;height&quot;:1.6,&quot;pin&quot;:2,&quot;label&quot;:&quot;c&quot;}}' />
+    </g>
+    <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Cap_Aluminum_SMD&quot;,&quot;value&quot;:&quot;H, &quot;,&quot;rev&quot;:2,&quot;_labels&quot;:{&quot;1&quot;:&quot;a&quot;,&quot;2&quot;:&quot;c&quot;},&quot;_iface&quot;:{&quot;1&quot;:&quot;a&quot;,&quot;2&quot;:&quot;c&quot;}}}'>
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:5.7,&quot;height&quot;:2,&quot;pin&quot;:1,&quot;label&quot;:&quot;a&quot;}}' />
+      <g data-paper-data='{&quot;aecad&quot;:{&quot;type&quot;:&quot;Pad&quot;,&quot;width&quot;:5.7,&quot;height&quot;:2,&quot;pin&quot;:2,&quot;label&quot;:&quot;c&quot;}}' />
+    </g>
+  </g>
+</svg>

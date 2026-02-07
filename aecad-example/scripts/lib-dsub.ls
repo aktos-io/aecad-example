@@ -74,19 +74,22 @@ add-class class D__S13A6GV00LF extends Footprint
             ..pos-x += distance/2
             ..pos-y += middle + B[p]/2
 
-        # body
-        @make-border border:
-            centered: no
-            width: body.width
-            height: body.height
-            offset-y: middle - body.height/2
-            offset-x: + middle-vertical - (body.width - 11.67mm)
+        unless data?border
+            # body
+            @make-border border:
+                centered: no
+                width: body.width
+                height: body.height
+                offset-y: middle - body.height/2
+                offset-x: + middle-vertical - (body.width - 11.67mm)
 
-        # socket part
-        @make-border border:
-            width: 6.17mm
-            height: D[p]
-            offset-x: body.width - 4.2mm
+            # socket part
+            @make-border border:
+                width: 6.17mm
+                height: D[p]
+                offset-x: body.width - 4.2mm
+        else
+            @make-border {border: data.border}
 
 add-class class D09S13A6GV00LF extends D__S13A6GV00LF
     (data, overrides) ->
@@ -106,10 +109,15 @@ add-class class D25S13A6GV00LF extends D__S13A6GV00LF
 provides class Dsub_9_Vertical extends D__S13A6GV00LF
     # Possible models:
     # * L-KLS1-221C-09-F-L
+    @rev_Dsub_9_Vertical = 1
     (data, overrides) ->
         super data, overrides `based-on` do
             pin-count: 9
             distance: 2.840mm
+            border:
+                width: 12.65mm
+                height: 30.93mm
+
 
 provides class Dsub_15_Vertical extends Dsub_9_Vertical
     # Possible models:
@@ -117,6 +125,9 @@ provides class Dsub_15_Vertical extends Dsub_9_Vertical
     (data, overrides) ->
         super data, overrides `based-on` do
             pin-count: 15
+            border:
+                width: 12.65mm
+                height: 39.3mm
 
 
 if __main__

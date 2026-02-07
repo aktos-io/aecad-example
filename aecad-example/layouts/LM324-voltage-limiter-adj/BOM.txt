@@ -1,0 +1,11 @@
+; count, type: value [instances...]
+; ---------------------------------
+1,	LM1117:	5v	[vref.c1]
+1,	C1206:	10uF	[vref.c2]
+1,	C1206:	100uF	[vref.c3]
+1,	LM324_SOIC:		[op]
+2,	Trimpot_Bourns_3006P:		[gain,limit]
+1,	Conn:	1x4 2.54mm	[i]
+1,	R1206:	4.7k	[r1]
+1,	DO214AC:		[d]
+3,	TestBoundary:		[t1,t2,t3]

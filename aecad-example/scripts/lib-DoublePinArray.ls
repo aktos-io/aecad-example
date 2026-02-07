@@ -1,6 +1,11 @@
 #! requires PinArray
 
 # Example: See SOT223
+
+# Usage
+# --------------------
+# data:
+#   dimple: {x, y}: creates the dimple circle
 add-class class DoublePinArray extends Footprint
     create: (data) ->
         overwrites =
@@ -19,5 +24,14 @@ add-class class DoublePinArray extends Footprint
 
         right.position = left.position.add [data.distance |> mm2px, 0]
         @make-border data
+
+        if data.dimple
+            @make-border do
+                border:
+                    dia: data.dimple.dia or 0.5mm
+                    centered: no
+                    offset-x:~ -> data.dimple.x
+                    offset-y:~ -> data.dimple.y
+
 
 

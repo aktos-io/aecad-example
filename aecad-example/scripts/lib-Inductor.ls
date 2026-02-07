@@ -5,7 +5,7 @@
 # --------------------------------------------------
 
 #! requires PinArray
-add-class class Inductor extends PinArray
+add-class class Inductor_smd extends PinArray
     @rev_Inductor = 2
     (data, overrides) ->
         super data, overrides `based-on` do
@@ -20,7 +20,7 @@ add-class class Inductor extends PinArray
                 width: 10.7mm
                 height: 10.2mm
 
-add-class class Inductor_thd extends Inductor
+add-class class Inductor_thd extends Inductor_smd
     (data, overrides) ->
         super data, overrides `based-on` do
             pad:

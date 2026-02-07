@@ -4,3 +4,4 @@
 1,	D15S13A6GV00LF:		[c2]
 1,	D25S13A6GV00LF:		[c3]
 1,	Dsub_9_Vertical:		[c4]
+1,	Dsub_15_Vertical:		[c5]
